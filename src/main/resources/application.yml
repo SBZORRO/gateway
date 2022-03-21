@@ -2,7 +2,7 @@ server:
   port: 8072
 spring:
   application:
-    name: gateway
+    name: gatewayserver
   profiles:
      active: dev  
   config:
